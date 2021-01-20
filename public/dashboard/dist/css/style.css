@@ -1,0 +1,9 @@
+.result{
+
+    background-color:rgb(246, 241, 241);
+    color:rgb(39, 33, 122);
+    font-size:16px;
+    margin:5px;
+    padding:5px;
+    display: none;
+}
